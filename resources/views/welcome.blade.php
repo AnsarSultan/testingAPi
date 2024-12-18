@@ -7,6 +7,7 @@
     <title>testing api</title>
 </head>
 <body>
-    <h2>api testing</h2>
+    <h2>Api testing</h2>
+    <p>sen dyou email id with password to get token id.</p>
 </body>
 </html>
